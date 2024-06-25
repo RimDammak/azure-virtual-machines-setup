@@ -86,4 +86,4 @@ Type `yes` to confirm destruction.
 
 ---
 
-Feel free to customize this README further based on your specific needs or add more sections as required. Happy deploying! 🌟
+Feel free to use this code and add more to it.  Happy deploying! 🌟
