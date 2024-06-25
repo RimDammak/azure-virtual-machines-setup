@@ -27,5 +27,6 @@ variable "username" {
 variable "password" {
   description = "Admin password for the virtual machines"
   type        = string
+  # Replace with desired password following the AZURE password rules 
   default     = "Rim1235"
 }
