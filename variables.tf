@@ -13,12 +13,14 @@ variable "location" {
 }
 
 variable "nodecount" {
+  # Replace with desired number of machine
   default     = 3
   description = "Number of virtual machines"
 }
 variable "username" {
   description = "Admin username for the virtual machines"
   type        = string
+  # Replace with desired user name
   default     = "rim"
 }
 
